@@ -1,0 +1,6 @@
+requests
+dnspython
+whois
+openai
+typer
+tqdm
